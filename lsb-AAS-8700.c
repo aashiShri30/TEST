@@ -8,3 +8,5 @@ int main(void)
     printf("%d", LSB(n)); 
     return 0; 
 } 
+//AASHI SHRINATE
+//138700
