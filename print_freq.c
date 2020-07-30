@@ -7,7 +7,7 @@ void print_freq(char* line)
 char i;int j,count=0;
 
 char ch;
-printf("hello");
+
 for(i='a';i<'z';i++)
 {count=0;
 for(j=0;*(line+j)!='\0';j++)
