@@ -18,3 +18,5 @@ int main(void)
     scanf("[^\n%c]",line);
     word_count(line);
 }
+//AASHI SHRINATE
+//138700
