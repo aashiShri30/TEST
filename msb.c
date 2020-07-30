@@ -1,3 +1,4 @@
+#include<stdio.h>
 #define MSB(x) x>>15
 int main(void) 
 { 
