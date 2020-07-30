@@ -6,3 +6,5 @@ int main()
     
     printf(concat(abs,cde,$)); //enter the strings to concatenate
 }
+//AASHI SHRINATE
+//138700
