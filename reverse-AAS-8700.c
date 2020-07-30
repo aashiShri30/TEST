@@ -19,3 +19,5 @@ int main(void) {
 	printf("%s",c);
 	return 0;
 }
+//AASHI SHRINATE
+//138700
